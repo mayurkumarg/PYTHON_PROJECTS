@@ -1,0 +1,1 @@
+📊 A Python project that analyzes student attitude survey data using Likert scales, visualizes average responses with Matplotlib, and allows natural language Q&A through LangChain and Groq’s LLM (Gemma2-9b-It). Designed to combine data analysis and AI-driven insights interactively.
