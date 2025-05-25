@@ -1,2 +1,1 @@
-# PYTHON_ChatBot_DataVisualization
-📊 An interactive Python tool to analyze student attitude survey data using Likert scales, visualize trends, and chat with the dataset using a Groq-powered LLM via LangChain.
+🚀 A set of complete Python projects for hands-on learning! Includes real-world apps using functions, files, modules, email, and basic GUI — ideal for students and Python enthusiasts.
